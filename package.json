@@ -1,12 +1,12 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "name": "@dancingleprechaun/troll-plugin",
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "practice plugin msq",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "me",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
+    "title": "troll plugin",
     "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
     "images": [
       "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/preview-1.png",
