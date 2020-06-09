@@ -1,6 +1,6 @@
 {
   "name": "@dancingleprechaun/troll-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "practice plugin msq",
   "main": "src/index.js",
   "author": "me",
@@ -34,11 +34,11 @@
     "Author Name"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/elaine-egan/ankh-morpork.git"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/elaine-egan/ankh-morpork.git#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+    "url": "git+https://github.com/elaine-egan/ankh-morpork.git"
   }
 }
